@@ -1,9 +1,9 @@
 Group Work Project
 
 Group Members:
-DIEU Hans Jerry
-Ronald LABOSSIERE
-Spenson FRANCOIS
+# DIEU Hans Jerry
+# Ronald LABOSSIERE
+# Spenson FRANCOIS
 
 
 App Ideas:
